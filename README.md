@@ -10,7 +10,7 @@ Lamdalabs setup:
 https://lambdalabs.com/blog/install-tensorflow-and-pytorch-on-rtx-30-series
 
 <h3>Files:</h3>
-hla_db_prediction_pLDDT_pTM_time.txt - each prediction time, pTM and plDDT.
+hla_db_prediction_pLDDT_pTM_time.txt - each prediction Time, pTM and plDDT.
 
 <h3>References:</h3>
 
