@@ -10,4 +10,5 @@ This repository contains information about MolNFT HLA - standard ERC-721 tokens 
 <pre>Evolutionary-scale prediction of atomic level protein structure with a language model
 Zeming Lin, Halil Akin, Roshan Rao, Brian Hie, Zhongkai Zhu, Wenting Lu, Nikita Smetanin, Robert Verkuil, Ori Kabeli, Yaniv Shmueli, Allan dos Santos Costa, Maryam Fazel-Zarandi, Tom Sercu, Salvatore Candido, Alexander Rives
 bioRxiv 2022.07.20.500902; doi: https://doi.org/10.1101/2022.07.20.500902 </pre>
-<li>MolNFT project - NFT of sequences and molecular structures </li>
+<li>MolNFT: ERC-721 NFT of sequences and molecular structures (MolNFT.org) on GenesisL1 blockchain.</li>
+<li>GenesisL1: public decentralized Layer 1 EVM blockchain based on Cosmos SDK (genesisL1.com)</li>
