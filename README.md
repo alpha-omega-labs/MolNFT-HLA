@@ -3,6 +3,15 @@ HLA db predicted with Meta AI ESMFold 2 by M for GenesisL1
 
 This repository contains information about MolNFT HLA - standard ERC-721 tokens on GenesisL1 blockchain containing HLA db sequential information and HLA protein structures predicted with Meta AI ESMFold2 by M for GenesisL1 blockchain. 
 
+<h3>Experiment:</h3>
+
+Predict all HLA db protein sequences with Meta AI ESMFold 2 and Single GPU Nvidia RTX 3090. 
+Lamdalabs setup:
+https://lambdalabs.com/blog/install-tensorflow-and-pytorch-on-rtx-30-series
+
+<h3>Files:</h3>
+hla_db_prediction_pLDDT_pTM_time.txt - each prediction time, pTM and plDDT.
+
 <h3>References:</h3>
 
 <li>The IPD-IMGT/HLA Database (https://www.ebi.ac.uk/ipd/imgt/hla/) </li>
